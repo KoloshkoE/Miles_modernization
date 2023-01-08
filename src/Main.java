@@ -3,9 +3,8 @@ public class Main {
 
         int rubForAMiles = 20;
         int cost = 10_000;
-        int bonus_miles = (cost / rubForAMiles);
+        int bonusMiles = (cost / rubForAMiles);
 
-
-        System.out.println(miles);
+        System.out.println(bonusMiles);
     }
 }
